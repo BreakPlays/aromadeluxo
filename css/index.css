@@ -1,0 +1,27 @@
+*{
+	background-color: black;
+	transition: .7s;
+}
+html{
+	width: 100vw;
+	height: 100vh;
+}
+
+
+button{
+	width: 50%;
+	height: 50%;
+	color: black;
+	border: none;
+	background-color: gold;
+	border-radius: 25px;
+}
+
+button:hover{
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+#mainButton{
+	height: 200px;
+}
